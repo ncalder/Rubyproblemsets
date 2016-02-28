@@ -1,2 +1,3 @@
 # Rubyproblemsets
-challenges to get a deeper understanding of ruby and 
+challenges to get a deeper understanding problem solving in ruby
+.
